@@ -26,6 +26,6 @@ Based on the graph we plotted, we can conclude that we found the right predictio
 We can see the the Black line 'Original Price' is aligned with the Blue line, which is our 'Predicted Price'.
 Here, Neural Network Model is the best Regression Model that suited for this project
 
-*Please check the code file and run it in your machine for moore insights. 
+*Please check the code file and run it in your machine for more insights. 
 
 
