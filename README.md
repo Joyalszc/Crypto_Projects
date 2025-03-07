@@ -16,3 +16,16 @@ In the next step, we are creating training data for x and y.
 Now we start with the Regression Models
 
 ## Linear Regression Model
+based on the plot, we concluded that this is not a better model since there is a huge difference between the 'Real Price' and the 'Predicted Price'.
+
+## Support Vector Regression Model
+Based on the plot, we concluded that this is not a better model since there is no relation or alignment between original price and predicted price
+
+## Neural Network Model
+Based on the graph we plotted, we can conclude that we found the right prediction model, which is NN Model.
+We can see the the Black line 'Original Price' is aligned with the Blue line, which is our 'Predicted Price'.
+Here, Neural Network Model is the best Regression Model that suited for this project
+
+*Please check the code file and run it in your machine for moore insights. 
+
+
